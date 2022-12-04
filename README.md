@@ -13,7 +13,7 @@
   * [Questions](#questions)
   
   ## Usage
-  You can view the application
+  You can view the application [here](https://serene-tundra-59094.herokuapp.com/)
 
   ![](./public/assets/images/notetakerdemo.png)
   
